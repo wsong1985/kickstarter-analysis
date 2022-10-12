@@ -50,8 +50,8 @@
 - What are some limitations of this dataset?
 
   - _This dataset is skewed to the right in both successful and failed campaigns._
-  - _Dataset only covered years between 2010 and 2017.
-  - _Dataset only included data collected from specific countries, not worldwide. 
+  - _Dataset only covered years between 2010 and 2017._
+  - _Dataset only included data collected from specific countries, not worldwide._ 
 
 - What are some other possible tables and/or graphs that we could create?
 
