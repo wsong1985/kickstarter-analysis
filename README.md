@@ -8,8 +8,10 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-  _1. Create a Pivot Table with the count of outcomes (for successful, failed, and canceled campaigns) vs. launch dates (on a monthly basis) for theater._ 
+  _1. Create a Pivot Table with the count of outcomes (for successful, failed, and canceled campaigns) vs. launch dates (on a monthly basis) for theater, with Parent Category and Year set as filters._ 
   
+  ![Theater Outcomes by Launch Date - Pivot Table](https://user-images.githubusercontent.com/114896048/195402178-fa0c0971-c176-44ba-88f2-08de4b7ec9ac.JPG)
+
   _2. Use the Line with Markers in the pivot chart to plot the count of outcomes against the launch dates._
   
   <img src="resources/Theater_Outcomes_vs_Lauch.png" width = "600" >
@@ -25,6 +27,8 @@
   _4. Calculate the Total Projects by summing the events in each amount range._ 
   
   _5. Calculate the percentages for successful, failed, and canceled for each amount range._ 
+  
+  ![Outcomes Based on Goals - Table](https://user-images.githubusercontent.com/114896048/195402587-417ac852-89a8-4b0f-9c37-f56f14079576.JPG)
   
   _6. Use the Line chart to plot the percentages against the amount ranges for successful, failed, and canceled._
   
@@ -55,5 +59,11 @@
 
 - What are some other possible tables and/or graphs that we could create?
 
-  - _Outcomes Based on Subcategory in Music, with Parent Category and Country set as Filters._
-  - _Sum of Pledged in All Outcomes in Music Based on Launch Year, with Parent Category and Country set as Filters._
+  - _Outcomes (for successful, failed, and canceled) Based on Subcategory in Music, with Parent Category and Country set as Filters._
+  
+  ![Outcomes Based on Subcategory in Music](https://user-images.githubusercontent.com/114896048/195405278-217241a7-0d8a-4c85-b3d2-ed87278ef379.JPG)
+  
+  - _Sum of Pledged (for successful, failed, and canceled) Based on Launch Year in Music, with Parent Category and Country set as Filters._
+  
+  ![Sum of Pledged in All Outcomes Based on Lauch Year](https://user-images.githubusercontent.com/114896048/195405312-45b29f17-45ae-411b-93ce-79cdd69ccefc.JPG)
+  
