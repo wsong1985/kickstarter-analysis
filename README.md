@@ -11,6 +11,8 @@
   _1. Create a Pivot Table with the count of outcomes (in successful, failed, and canceled events) vs. lauch dates in month for theater._ 
   
   _2. Use the Line with Markers in pivot chart to plot the count of outcomes against the lauch dates in month._
+  
+  _
 
 ### Analysis of Outcomes Based on Goals
 
@@ -46,5 +48,5 @@
   - _This dataset is skewed to the right in both successful and failed campaigns._ 
 
 - What are some other possible tables and/or graphs that we could create?
-  - _Average Donations Based on Goals in PLays_
+  - _Outcomes Based on Subcatogory in music
   - _Averages Donations Based on Launch Dates in Successful Campaigns_
