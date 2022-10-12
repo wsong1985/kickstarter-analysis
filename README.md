@@ -48,5 +48,5 @@
   - _This dataset is skewed to the right in both successful and failed campaigns._ 
 
 - What are some other possible tables and/or graphs that we could create?
-  - _Outcomes Based on Subcatogory in music
-  - _Averages Donations Based on Launch Dates in Successful Campaigns_
+  - _Outcomes Based on Subcatogory in music._
+  - _Averages Donations Based on Launch Dates in Successful Campaigns._
