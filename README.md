@@ -12,7 +12,7 @@
   
   _2. Use the Line with Markers in pivot chart to plot the count of outcomes against the lauch dates in month._
   
-  _
+  <img src="resources/Theater_Outcomes_vs_Lauch.png" width = "600" >
 
 ### Analysis of Outcomes Based on Goals
 
@@ -27,6 +27,8 @@
   _5. Calculate the percentages for successful, failed and canceled for each amount range._ 
   
   _6. Use the Line chart to plot the percentages against the amount ranges for successful, failed and canceled._
+  
+  <img src="resources/Outcomes_vs_Goals.png" width = "600" >
 
 ### Challenges and Difficulties Encountered
 
