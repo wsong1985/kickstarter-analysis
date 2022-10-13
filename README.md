@@ -2,7 +2,7 @@
 
 ## **Overview of Project**
 
-### To study how different campaigns fared in relation to their launch dates and their funding goals using the Kickstarter dataset.
+### To provide some insights to Louise about how different campaigns fared in relation to their launch dates and their funding goals using the Kickstarter dataset.
 
 ## **Analysis and Challenges**
 
