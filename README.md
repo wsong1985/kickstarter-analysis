@@ -24,7 +24,7 @@
  
   _3. Use function "countifs()" to count numbers for successful, failed, and canceled events for each amount range, with "plays" selected for "Subcategory"._ 
   
-  _4. Calculate the Total Projects by summing the events in each amount range._ 
+  _4. Calculate the Total Projects by adding up the events from successful, failed, and canceled for each amount range._ 
   
   _5. Calculate the percentages for successful, failed, and canceled for each amount range._ 
   
